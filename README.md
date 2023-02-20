@@ -25,10 +25,14 @@ Go to the project directory
 Create Virtual Envirmonent
 
 ```bash
-  pip install virtualenv 
+  pip install virtualenv   
+```
 
+```bash
   virtualenv Venv
+```
 
+```bash
   Venv/Scripts/activate 
 ```
 
@@ -37,6 +41,7 @@ Install Requirements
 ```bash
   pip install -r requirements.txt
 ```
+
 Run File in the terminal
 
 ```bash
